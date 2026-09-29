@@ -9,7 +9,7 @@
 1. Clone the repository:
 
 ```
-git clone https://github.com/ThomasJanssen-tech/LangChain-Pinecone-RAG.git
+git clone (https://github.com/anirudhkowluri/Document-Based-RAG-Chatbot)
 cd LangChain Pinecone RAG
 ```
 
